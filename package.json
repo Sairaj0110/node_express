@@ -1,0 +1,26 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sairaj0110/node_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sairaj0110/node_express/issues"
+  },
+  "homepage": "https://github.com/Sairaj0110/node_express#readme",
+  "dependencies": {
+    "@hapi/joi": "^16.1.7",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "nodemon": "^2.0.1"
+  }
+}
